@@ -56,3 +56,4 @@ for the intended boundary between generated consumers and the comparevi
 platform repos.
 
 Proof lane note: personal fork pull_request consumer proof for #2.
+Proof lane follow-up: personal fork synchronize event diagnostic.
